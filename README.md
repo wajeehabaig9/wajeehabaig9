@@ -49,10 +49,8 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 <td width="44%" align="center">
 
 
-<img
-width="320"
-src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
-/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,vercel,postman" />
+
 
 </td>
 
