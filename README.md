@@ -111,16 +111,6 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=wajeehabaig9&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
 # 💻 Coding Environment
 
 <div align="center">
