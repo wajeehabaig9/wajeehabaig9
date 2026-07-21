@@ -1,34 +1,133 @@
-![logo](https://media.licdn.com/dms/image/v2/D4E16AQEmau1RdwOptw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726929308724?e=1733356800&v=beta&t=Uq7nTtEAVGth71BpaMPR55JMBB4OYueGqM0E9_1PDS8)
-<h1 align="center">Hi 👋, I'm Wajeeha Baig</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding_image" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif" />
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wajeehabaig9&label=Profile%20views&color=0e75b6&style=flat" alt="wajeehabaig9" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050608,50:0A0F1E,100:2563EB&text=WAJEEHA%20BAIG&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=60&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [E-commerce](https://dine-market-master.vercel.app/)
+<br>
 
-- 🌱 I’m currently learning **Python**
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Premium+Digital+Experiences;Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Performance" />
 
-- 👨‍💻 All of my projects are available at [https://portfolios-lemon-kappa.vercel.app/](https://portfolios-lemon-kappa.vercel.app/)
+</div>
 
-- 💬 Ask me about **React, Typescript, Javascript**
+---
 
-- 📫 How to reach me **wajeehabaig2@gmail.com**
+# 💻 About Me
 
-- ⚡ Fun fact **I am Funny**
+<img align="right" width="330" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/wajeeha-baig-23b9b025a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/wajeeha-baig-23b9b025a/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/wajeehabaig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/wajeehabaig" height="30" width="40" /></a>
-</p>
+I'm **Wajeeha Baig**, a passionate **Full Stack Web Developer** focused on building premium, fast and scalable web applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I enjoy creating beautiful user interfaces, writing clean code, and turning ideas into modern digital products.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wajeehabaig9&show_icons=true&locale=en&layout=compact" alt="wajeehabaig9" /></p>
+### 🚀 Currently
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wajeehabaig9&show_icons=true&locale=en" alt="wajeehabaig9" /></p>
+- ⚡ Building production-ready web applications
+- 🎨 Crafting premium UI/UX
+- 🌍 Learning advanced backend architecture
+- 🤖 Exploring AI integrations
+- 🚀 Improving performance & scalability
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wajeehabaig9&" alt="wajeehabaig9" /></p>
+---
 
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,vercel,postman" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🌍 MyHustle Africa
+
+Premium employment platform helping skilled workers connect with opportunities across Africa.
+
+</td>
+
+<td width="50%">
+
+## 🌱 FarmNet Africa
+
+Modern agriculture platform designed for farmers and agricultural businesses.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚡ Coding Setup
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,windows,nodejs,nextjs,react" />
+
+</div>
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 "Great software isn't just built. It's crafted."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050608,50:0A0F1E,100:2563EB"/>
+
+</div>
