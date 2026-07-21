@@ -48,7 +48,11 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 
 <td width="44%" align="center">
 
-<img width="340" src="https://res.cloudinary.com/dvflnz7oq/image/upload/v1784635237/element_nshjeg.png"/>
+
+<img
+width="320"
+src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif"
+/>
 
 </td>
 
