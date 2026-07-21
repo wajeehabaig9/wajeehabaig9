@@ -46,7 +46,7 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 
 </td>
 
-<td width="38%" align="center">
+<td width="44%" align="center">
 
 <img width="340" src="https://res.cloudinary.com/dvflnz7oq/image/upload/v1784635237/element_nshjeg.png"/>
 
