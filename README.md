@@ -49,7 +49,7 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 <td width="44%" align="center">
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Premium+Digital+Experiences;Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Performance" />
+<img align="right" width="330" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
 
 
 
