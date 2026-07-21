@@ -49,7 +49,8 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 <td width="44%" align="center">
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,figma,vercel,postman" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Building+Premium+Digital+Experiences;Clean+Code+%E2%80%A2+Modern+UI+%E2%80%A2+Performance" />
+
 
 
 </td>
