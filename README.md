@@ -8,15 +8,15 @@
 
 <br><br>
 
-<a href="https://yourportfolio.com">
+<a href="https://majestic-biscuit-89c813.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://www.linkedin.com/in/wajeeha12/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:wajeehabaig2@gmai.com">
 <img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -48,7 +48,7 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 
 <td width="38%" align="center">
 
-<img width="280" src="https://res.cloudinary.com/dvflnz7oq/image/upload/v1784635237/element_nshjeg.png"/>
+<img width="340" src="https://res.cloudinary.com/dvflnz7oq/image/upload/v1784635237/element_nshjeg.png"/>
 
 </td>
 
@@ -82,9 +82,9 @@ I enjoy crafting modern web experiences with clean architecture, beautiful UI, s
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=wajeehabaig9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=wajeehabaig9&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajeehabaig9&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wajeehabaig9&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </div>
 
